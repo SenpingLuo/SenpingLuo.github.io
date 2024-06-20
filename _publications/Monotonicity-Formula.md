@@ -7,6 +7,5 @@ date: 2022-01-01
 publisher: 'IMRN'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academic.oup.com/imrn/article-pdf/2022/21/16902/46695202/rnab212.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
--
+---
 
