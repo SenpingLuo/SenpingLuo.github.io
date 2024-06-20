@@ -2,7 +2,7 @@
 title:  "On Minima of Sum of Theta Functions and Application to Mueller-Ho Conjecture"
 collection: publications
 permalink: /publication/on-minima-of-sum
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2023-01-01
 publisher: 'Springer'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

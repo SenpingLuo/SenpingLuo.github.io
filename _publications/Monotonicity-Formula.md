@@ -2,7 +2,7 @@
 title:  "Monotonicity Formula and Classification of Stable Solutions to Polyharmonic Lane-Emden Equations"
 collection: publications
 permalink: /publication/Monotonicity-Formula
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2022-01-01
 publisher: 'IMRN'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

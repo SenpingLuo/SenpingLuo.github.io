@@ -2,7 +2,7 @@
 title: "Classification of finite Morse index solutions to the polyharmonic Hénon equation"
 collection: publications
 permalink: /publication/2023-01-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2023-01-01
 publisher: 'Springer'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
