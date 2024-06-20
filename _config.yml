@@ -22,17 +22,17 @@ repository               : "academicpages///SenpingLuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Luo Sen Ping"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Nan Chang"
+  employer         : "Jiangxi Normal University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "luosp1989@163.com " 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  Springer Link    : "https://link.springer.com/search?dc.creator=Senping%20Luo"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
